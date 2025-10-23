@@ -1,0 +1,9 @@
+streamlit
+langchain
+sentence-transformers
+torch
+transformers
+PyPDF2
+python-docx
+pandas
+matplotlib

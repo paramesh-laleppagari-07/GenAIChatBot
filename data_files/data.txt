@@ -1,0 +1,38 @@
+Hello! This is Paramesh’s test chatbot.
+It can read and answer questions from this file.
+
+Welcome to My Local AI ChatBot! This document contains sample information that the chatbot can answer questions about.
+
+1. About the Bot:
+This chatbot is built using Python, Streamlit, HuggingFace transformers, and LangChain. It can answer questions based on the text provided in this file.
+
+2. Topics Covered:
+- Programming languages: Python, Java, JavaScript
+- Web technologies: HTML, CSS, React.js, Django
+- AI & Machine Learning: Transformers, NLP, LLMs
+- Databases: SQL, MySQL, PostgreSQL
+- Tools: Streamlit, FAISS, HuggingFace, Power BI, Excel
+
+3. Python:
+Python is a high-level programming language used for web development, data science, machine learning, and automation. It has a simple syntax and is beginner-friendly.
+
+4. Java:
+Java is an object-oriented programming language used for web apps, Android apps, and enterprise software. It runs on the Java Virtual Machine (JVM).
+
+5. JavaScript:
+JavaScript is a scripting language used to create dynamic web pages. It works on both client-side and server-side (Node.js).
+
+6. Streamlit:
+Streamlit is a Python library that makes it easy to create web apps for machine learning and data science projects. You can build interactive dashboards and apps quickly.
+
+7. FAISS:
+FAISS is a library for efficient similarity search and clustering of dense vectors. It is used for vector embeddings in AI applications.
+
+8. HuggingFace Transformers:
+Transformers is a library for natural language processing tasks. It provides pre-trained models for tasks like text generation, summarization, and question answering.
+
+9. Power BI & Excel:
+Power BI is a business analytics tool for visualizing data and creating dashboards. Excel is a spreadsheet tool for calculations, analysis, and charts.
+
+10. AI Chatbots:
+An AI chatbot can answer questions from documents, provide information, and assist users. It uses embeddings and language models to retrieve and generate responses.

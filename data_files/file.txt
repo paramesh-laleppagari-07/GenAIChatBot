@@ -1,0 +1,57 @@
+Personal Information:
+
+Full Name: Laleppagari Paramesh
+
+Preferred Name: Paramesh
+
+Interests: Traveling, Reading Newspapers, Playing Kabaddi
+
+Location Preference for Job: Bangalore, Hyderabad, Chennai, Amaravati
+
+Education:
+
+MCA (Master of Computer Applications) – Santhiram Engineering College, JNTUA University, Completed May 2025
+
+Skills:
+
+Programming: Python, Java, SQL, HTML, CSS, JavaScript, React.js
+
+Frameworks/Tools: Django (learning), Power BI, Excel
+
+Other: OOPs concepts in Python, Web Development, Data Visualization, Problem Solving
+
+Projects:
+
+A Secure and Private Location Proof Generation and Verification Framework – Java-based project
+
+Library Management System – Python + Django
+
+Workshop Management System – HTML/CSS/JS + Java
+
+ChatGPT Clone – Python + NLP
+
+Object Detection Using YOLOv8 – AI/Computer Vision project
+
+Power BI Data Visualization Project – Business Intelligence
+
+Visual Question & Answer Model – AI/Deep Learning
+
+Certifications:
+
+Python Basics and Problem Solving – HackerRank
+
+Full Stack Python Development – PySpyders Institute, Bangalore
+
+Preferences:
+
+Interested in backend or frontend roles
+
+Likes step-by-step learning and clear explanations
+
+Enjoys creating projects and web applications
+
+Other Notes for Chatbot:
+
+Can answer questions about my skills, projects, education, certifications, interests, and preferred locations for jobs.
+
+Knows technologies like Django, React.js, Power BI, Excel, YOLOv8, and Python NLP.
