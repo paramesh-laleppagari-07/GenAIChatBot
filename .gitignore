@@ -1,0 +1,21 @@
+# Python virtual environments
+.venv/
+GenAIChatBot/.venv/
+
+# IDE / editor settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & config files
+.env
+*.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
